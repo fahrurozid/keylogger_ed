@@ -11,7 +11,7 @@ Do **NOT** use this tool on any system without **explicit permission**.
 - 🎹 Capture every keystroke (visible + special keys)
 - 💾 Log saved per session with timestamp
 - ⛔ Exit safely by pressing `ESC`
-- 🔒 Log files encrypted using AES-based Fernet encryption
+<!-- - 🔒 Log files encrypted using AES-based Fernet encryption -->
 - 🪄 Option to run with hidden console (stealth mode)
 
 ---
